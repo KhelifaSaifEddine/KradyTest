@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BrightSky.dds</file>
+        <file>assets/GameBoy.obj</file>
+        <file>assets/Engrenage.blend</file>
+        <file>assets/carnage.mtl</file>
+        <file>assets/carnage.obj</file>
+        <file>assets/CyborgEye.blend</file>
+        <file>assets/elice.blend</file>
+        <file>assets/Engrenage.blend1</file>
+        <file>assets/GameBoy.mtl</file>
+        <file>assets/helicopter.blend</file>
+        <file>assets/plane1.blend</file>
+        <file>assets/tree.blend</file>
+    </qresource>
+</RCC>
